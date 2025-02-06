@@ -162,11 +162,10 @@ export const navLinks = [
   export const workExperiences = [
     {
       id: 1,
-      name: 'Webhelp',
+      name: 'ComputAssist',
       pos: 'IT Helpdesk',
       duration: '2018 - 2021',
       title: "Provided first-line support to over 1000 users, effectively troubleshooting software issues via phone, email, and chat",
-      icon: '/assets/Webhelp.svg',
       animation: 'goal',
     },
     {
