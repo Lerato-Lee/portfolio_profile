@@ -173,11 +173,22 @@ export const navLinks = [
       id: 2,
       name: 'iStore',
       pos: 'iOS Technician',
-      duration: '2023 - 2024',
+      duration: '2023 - 2025',
       title: "Conducted software updates and managed backups using iTunes and iCloud, guiding customers through data transfer and security best practices.",
+      icon: '/assets/iStore.png',
+      animation: 'greeting',
+    },
+    {
+      id: 2,
+      name: 'Webhelp',
+      pos: 'Customer Service Advisor',
+      duration: '2021 - 2022',
+      title: "Deliver exceptional customer service by efficiently resolving inquiries, providing accurate information, and ensuring customer satisfaction through multiple communication channels (phone, email, chat).",
       icon: '/assets/iStore.png',
       animation: 'greeting',
     },
   ];
 
   export default myProjects;
+  
+  

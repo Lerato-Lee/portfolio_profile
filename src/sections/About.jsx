@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Lerato Mthimkhulu</p>
               <p className="grid-subtext">
-              Web Developer with 4 Years of IT Support Experience: Bridging Technical Expertise
+              Web Developer with over 4 Years of IT Support Experience: Bridging Technical Expertise
                and User-Centric Solutions
               </p>
             </div>
