@@ -161,14 +161,6 @@ export const navLinks = [
   
   export const workExperiences = [
     {
-      id: 1,
-      name: 'ComputAssist',
-      pos: 'IT Helpdesk',
-      duration: '2018 - 2021',
-      title: "Provided first-line support to over 1000 users, effectively troubleshooting software issues via phone, email, and chat",
-      animation: 'goal',
-    },
-    {
       id: 2,
       name: 'iStore',
       pos: 'iOS Technician',
@@ -183,7 +175,7 @@ export const navLinks = [
       pos: 'Customer Service Advisor',
       duration: '2021 - 2022',
       title: "Deliver exceptional customer service by efficiently resolving inquiries, providing accurate information, and ensuring customer satisfaction through multiple communication channels (phone, email, chat).",
-      icon: '/assets/iStore.png',
+      icon: '/assets/Webhelp.svg',
       animation: 'greeting',
     },
   ];
